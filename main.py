@@ -1,2 +1,6 @@
-#Name all the Months 
-print - Months("january, February, March April May June July August September October November December")):
+#Name all the Months
+print("james")
+print("may 24")
+print("2005")
+
+("my_function")
